@@ -43,7 +43,7 @@ public class TestClass02 {
         System.out.println(" 登录结果--="+subject.isAuthenticated());
         subject.logout();
 
-        System.out.println(" 登录结果--="+subject.isAuthenticated());
+        System.out.println(" 登录结果123123--="+subject.isAuthenticated());
     }
 
 }
